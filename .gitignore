@@ -1,0 +1,14 @@
+/trained_models
+/dataset
+/dataset_trial
+/final_dataset
+/not wanted
+/preprocessed_dataset
+/.venv
+/saved_model
+/test_dataset
+/test_dataset_processed
+/ultra
+/ultra_test
+/unwanted
+README.md
